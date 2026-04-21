@@ -4,3 +4,8 @@ This Django project aims to create a robust system with features for user signup
 1. Create a virtual environment: "DjangoAssignment".
 2. Create a new Django project: "LoginSystem"
 3. Create a New Django Application: “Loginify”
+
+### Create views and urls for login system:
+1. Create login view within the Loginify that returns an HTTP response with the text "Hello, world!".
+2. Define URL patterns in the "urls.py" file of the "Loginify" Django application to map views to specific URLs.
+![Login](Tasks/image.png)
