@@ -8,4 +8,18 @@ This Django project aims to create a robust system with features for user signup
 ### Create views and urls for login system:
 1. Create login view within the Loginify that returns an HTTP response with the text "Hello, world!".
 2. Define URL patterns in the "urls.py" file of the "Loginify" Django application to map views to specific URLs.
-![Login](Tasks/image.png)
+![Login](Tasks/hello%20world.png)
+
+### Models and Admin
+1. Setup Superuser (![SuperUser](Tasks/superuser.png)) (![Admin](Tasks/admin.png))
+2. Python manage.py shell
+    a.Create a new user instance
+    b.Retrieve all Users
+    c.Retrieve a single user by name
+    d.Delete a user by username
+    e.Create a new instance using object
+    f.Query objects
+    g.Update an object
+    h.Delete an object
+  ![Shell](Tasks/shell1.png)
+  ![Shel2](Tasks/shell2.png)
