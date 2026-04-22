@@ -30,3 +30,9 @@ This Django project aims to create a robust system with features for user signup
 3. Update User details (![Update user](Tasks/update_user.png))
 4. To delete a user using its email. (![Delete user](Tasks/delete_user.png))
 5. Create user (![Shell](Tasks/create_user.png))
+
+### Define Models for Login System
+Define URL patterns in urls.py for the implemented views. Create HTML templates for signup and login forms, confirmation page, and success message. Upon successful signup, redirect to the login page. Upon successful login, display a success message.
+(![Signup](Tasks/signup.png))
+(![Login](Tasks/login.png))
+(![Success](Tasks/success.png))
