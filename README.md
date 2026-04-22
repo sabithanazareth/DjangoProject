@@ -23,3 +23,10 @@ This Django project aims to create a robust system with features for user signup
     h.Delete an object
   ![Shell](Tasks/shell1.png)
   ![Shel2](Tasks/shell2.png)
+
+### Crud Operations
+1. Get all user details view: Retrieves and displays details of all users. (![Get all](Tasks/get_all_users.png))
+2. Get a single user using by email view: Retrieves and displays details of a specific user based on their name. (![Get User](Tasks/get_user.png))
+3. Update User details (![Update user](Tasks/update_user.png))
+4. To delete a user using its email. (![Delete user](Tasks/delete_user.png))
+5. Create user (![Shell](Tasks/create_user.png))
